@@ -7,3 +7,5 @@ git clone https://github.com/momo-setti/ENS-SpaceInfo-Theme mycloned_directory
 ```
 Or download it directly:
 [Direct link](https://github.com/momo-setti/ENS-SpaceInfo-Theme/archive/master.zip) - ENS-SpaceInfo-Theme
+### Live Demo
+[Demo](https://momosetti.github.io/ENS-SpaceInfo-Theme/)
